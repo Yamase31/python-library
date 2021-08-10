@@ -1,0 +1,41 @@
+create lib1
+create lib2
+lib1 add
+Book Title
+Book Author
+1834
+lib1 add
+Other Book Title
+Other Book Author
+1925
+lib1 add
+Cookbook
+Famous Chef
+2015
+lib1 sort year
+lib1 display
+lib1 sort title
+lib1 display
+lib1 checkout
+Book Title
+Book Author
+1834
+lib1 checkout
+Cookbook
+Famous Chef
+2015
+lib1 checkin
+Cookbook
+Famous Chef
+2015
+lib1 remove
+Other Book Title
+Other Book Author
+1925
+lib1 display
+lib2 add
+Book Title
+Book Author
+1834
+lib2 display
+total
